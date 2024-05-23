@@ -24,7 +24,7 @@
       padding: 3rem; /* Increase padding for a larger container */
       border-radius: 8px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      width: 50%; /* Adjust width to make the container larger */
+      width: 30%; /* Adjust width to make the container larger */
     }
 
     .form-group {
